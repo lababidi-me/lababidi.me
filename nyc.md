@@ -1,5 +1,5 @@
 ---
-title: nyc
+title: New York City
 layout: default
 ---
 <div class="col-md-9 col-md-offset-3">
@@ -11,182 +11,154 @@ layout: default
 				<img src="img/lababidi9.jpg" alt="">
 			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Mountain</a>
+				<a href="javascript:void(0);">Mountain Top</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/lababidi7.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Interface</a>
+				<a href="javascript:void(0);">Cave</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038880031.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);">Flying</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038880032.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);">Cliffs</a>
 			</h2>
 		</div>
 
-		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
-				<img src="img/000038880033.jpg" alt="">
-			</a>
-			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
-			</h2>
-		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038880037.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);">Fruits</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038890004.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);">Trees in Fog</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038890006.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);">Animal Waste</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038890009.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);">Shaman</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038890010.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);">Creek</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038890011.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);">Monument</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038890014.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);"></a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038890026.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);">Burial</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038890030.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);">Mountain Peaks</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038890033.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);">Caverns</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038890035.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);">Igloo</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038890036.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);">Migration</a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038890037.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);"></a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="https://template.kendytheme.net/kelly/single-project.html">
+			
 				<img src="img/000038890039.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
+				<a href="javascript:void(0);"></a>
 			</h2>
 		</div>
 
 		<div class="project-item">
-			<a href="http://lababidi.me">
 				<img src="img/lababidi3.jpg" alt="">
-			</a>
 			<h2 class="title">
-				<a href="https://template.kendytheme.net/kelly/#">Emotions</a>
+				<a href="javascript:void(0);">Mirage</a>
 			</h2>
 		</div>
-
 
 	</div>
 </div>
-		
+	

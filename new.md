@@ -1,21 +1,21 @@
 ---
-title: Mahmoud Lababidi
+title: Home
 layout: default
 ---
 
 <div class="col-md-9 col-md-offset-3">
 	<div class="projects">
 		<div class="project-item" id="lababidi3">
-			<a href="nyc.html">
-				<img src="img/000038890026.jpg" alt="">
+			<a href="img/lababidi3.jpg">
+				<img src="img/lababidi3.jpg" alt="">
 			</a>
 			<h2 class="title">
-				<a href="nyc.html">
-					New York City
+				<a href="#lababidi3">
+					Hotel - Long Exposure - Self Portrait Study
 				</a>
 			</h2>
 		</div>
-		<!-- <div class="project-item">
+		<div class="project-item">
 			<a href="img/000038900003.jpg">
 				<img src="img/000038900003.jpg" alt="">
 			</a>
@@ -78,6 +78,7 @@ layout: default
 			<h2 class="title">
 				<a href="https://template.kendytheme.net/kelly/#">Perspective</a>
 			</h2>
-		</div> -->
+		</div>
 		
+	</div>
 </div>
