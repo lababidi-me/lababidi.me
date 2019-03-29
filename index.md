@@ -7,7 +7,7 @@ layout: default
 	<div class="projects">
 		<div class="project-item" id="lababidi3">
 			<a href="nyc.html">
-				<img src="img/000038890026.jpg" alt="">
+				<img src="img/nyc/000038890026.jpg" alt="">
 			</a>
 			<h2 class="title">
 				<a href="nyc.html">
