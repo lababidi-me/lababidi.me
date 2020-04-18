@@ -24,7 +24,7 @@ layout: default
 			-->
 		</div>
 		<div class="project-item">
-			<img src="img/childhood/3-2.jpg" alt="" data-lightbox="img">
+			<img src="img/childhood/construction.jpg" alt="" data-lightbox="img">
 			<h2 class="title">
 			<a href="javascript:void(0);">Construction</a>
 			</h2>
@@ -118,18 +118,19 @@ layout: default
 			<h2 class="title">
 			<a href="javascript:void(0);">Bones 2</a>
 			</h2>
-		</div>
+		<!-- </div>
 		<div class="project-item">
 			
 			<img src="img/childhood/bw bones double exposure.jpg" alt="" data-lightbox="img">
 			<h2 class="title">
 			<a href="javascript:void(0);">Bones 3</a>
-			</h2>
+			</h2> -->
 			<p>
 				As a child, eating chicken was a staple in our house. Whether it was home cooked chicken or take out “broasted” chicken in Kuwait, we always enjoyed it as a family. There’s even a story being told repeatedly about me where my mother came home and saw I was eating the skin of the chicken rather than the meat. She asked my grandmother why she fed me the skin, and she responded that I had chosen to eat the skin.
 			</p>
 			<p>
-				I remember watching cartoons and seeing dog bones being buried or cared about. It inspired me to hide a few bones under my bed a few times to my mom’s surprise and shock. She would flip her mind when she would find them and exclaim that “worms would grow in them!”. One day I purchased, ate, and deboned a whole chicken and decided to let it sit out to see what would happen. Nothing really happened, no maggots, no flies, no worms. But I kept looking at the chicken and noticing the texture reminding me of the dried bones under the bed.
+				I remember watching cartoons and seeing dog bones being buried or cared about. It inspired me to hide a few bones under my bed a few times to my mom’s surprise and shock. She would flip her mind when she would find them and exclaim that “worms would grow in them!”. One day I purchased, ate, and deboned a whole chicken and decided to let it sit out to see what would happen. Nothing really happened, no maggots, no flies, no worms. 
+				<!-- But I kept looking at the chicken and noticing the texture reminding me of the dried bones under the bed. -->
 				<!--I wanted to capture this texture in these images both in color and black and white. In addition to the texture, I wanted to get the shape and patterns of the bones through shadows. While the black and white image was captured on a previously exposed negative, creating a double-exposure, I felt this accident deserved recognition because it depicts a bit of the obfuscation I feel about the bones in my life.-->
 			</p>
 		</div>
@@ -188,7 +189,7 @@ layout: default
 				</p>
 			</div>
 			<div class="project-item">
-				<img src="img/childhood/sink.jpg" alt="" data-lightbox="img">
+				<img src="img/childhood/sink-hair.jpg" alt="" data-lightbox="img">
 				<h2 class="title">
 				<a href="javascript:void(0);">Hair</a>
 				</h2>
