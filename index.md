@@ -9,11 +9,11 @@ layout: default
 			<a href="nyc.html">
 				<img src="img/nyc/000038890026.jpg" alt="">
 			</a>
-			<h2 class="title">
+			<!-- <h2 class="title">
 				<a href="nyc.html">
 					New York City
 				</a>
-			</h2>
+			</h2> -->
 		</div>
 		<!-- <div class="project-item">
 			<a href="img/000038900003.jpg">
